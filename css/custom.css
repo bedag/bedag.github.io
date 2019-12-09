@@ -1,0 +1,14 @@
+.project-img {
+    display: block;
+    text-align: center;
+    margin: 2.5rem auto 0;
+}
+
+h2, .project h3, .project p, .project button, .project a {
+    text-align: center;
+}
+
+.footer-text {
+    text-align: center;
+    color: #777;
+}
